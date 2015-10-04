@@ -1,7 +1,9 @@
-自行修改把 index.js 中的https://b.aofall.xyz改为你自己的地址
+自行把 index.js 中的 https://b.aofall.xyz 改为你自己的地址
 -----
 
 License：GPLv3
+
+------
 
 原作者的话：
 
